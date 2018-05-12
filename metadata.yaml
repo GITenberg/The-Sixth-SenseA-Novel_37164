@@ -1,0 +1,30 @@
+_repo: The-Sixth-SenseA-Novel_37164
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37164-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McKenna, Stephen
+    birthdate: 1888
+    deathdate: 1967
+    gutenberg_agent_id: '33654'
+    url: http://www.gutenberg.org/2009/agents/33654
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
+description: ''
+gutenberg_issued: '2011-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- Great Britain -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Extrasensory perception -- Fiction'
+- !lcc 'PR'
+title: 'The Sixth Sense: A Novel'
+url: http://www.gutenberg.org/ebooks/37164
